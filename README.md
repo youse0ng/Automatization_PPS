@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # /getBidPblancListInfoCnstwkPPSSrch [입찰공고공사]
 [입찰공고공사]
 Cnstwk = Construction Work
@@ -48,3 +49,6 @@ Frgcpt = Foreign Capital / Foreign Procurement
 수입 의료기기
 외산 특수 장비
 👉 국외 조달 / 수입 계약
+=======
+<img width="838" height="596" alt="자동화_나라장터" src="https://github.com/user-attachments/assets/e8ad956f-0666-41df-afda-b4743c983d0b" />
+>>>>>>> e7971a864894152539b85312ed3bf0d05cb11a5f
